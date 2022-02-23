@@ -1,0 +1,35 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: rgb(39, 90, 173);
+}
+
+.quem-somos {
+    background-color: #eeeeee;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 50px;  
+}
+
+.times {
+    background-color: rgb(187, 209, 245);
+}
+
+.jogos {
+    background-color: #fff;
+}
+
+.margin-bottom {
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: #1a1a1a;
+    color: #fff;
+    text-align: center;
+    font-weight: 100;
+    padding: 10px 0px;
+}
